@@ -11,4 +11,9 @@ Formally, Wien's displacement law states that the spectral radiance of black-bod
 where T is the absolute temperature. b is a constant of proportionality called Wien's displacement constant, equal to 2.897771955...×10−3 m⋅K, or b ≈ 2898 μm⋅K.
 
 
+
+
+
 ![image](https://user-images.githubusercontent.com/63067128/169418868-f3da9962-b1eb-4d21-95ae-447d3abbf58a.png)
+
+Black-body radiation as a function of wavelength for various temperatures. Each temperature curve peaks at a different wavelength and Wien's law describes the shift of that peak.
